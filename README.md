@@ -12,7 +12,7 @@ I'm currently pivoting away from frontend and exploring backend development!
 #### You can reach me here
 [Email](mattchow918@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matthewpchow/)
 
-[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mpchow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Some Github Stats](https://github-readme-stats.vercel.app/api?username=mpchow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mpchow/mpchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
