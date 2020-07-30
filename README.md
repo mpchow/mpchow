@@ -1,9 +1,9 @@
 ### Hello, I'm Matthew 👋
-I'm...
-an incoming **Software Developer Intern @ SAP**
-a **QA Engineer Intern @ Perk Labs**!\
-studying **Computer Engineering @ UBC**.\
-fluent in web technologies and currently exploring backend development
+I'm...\
+An incoming **Software Developer Intern @ SAP**
+A **QA Engineer Intern @ Perk Labs**!\
+Studying **Computer Engineering @ UBC**.\
+Fluent in web technologies and currently exploring backend development
 
 #### You can catch me working on
 » A super secret API project\
