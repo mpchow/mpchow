@@ -11,6 +11,8 @@ I'm currently pivoting away from frontend and exploring backend development!
 » I went to Nationals in 2015 for Wushu (Chinese Martial Art) and once I'm done with university I hope to go back 🤞
 #### You can reach me here
 [Email](mattchow918@gmail.com) | [LinkedIn](https://www.linkedin.com/in/matthewpchow/)
+
+[![Matthew's github stats](https://github-readme-stats.vercel.app/api?username=mpchow&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mpchow/mpchow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
