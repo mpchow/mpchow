@@ -1,13 +1,12 @@
 ### Hello, I'm Matthew 👋
 I'm...\
 Studying **Computer Engineering @ UBC**.\
-Prev **Software Developer Intern @ SAP, QA Engineer Intern @ Perk Labs** \
+Prev intern @ **SAP, Perk Labs** \
 Fluent in backend development and currently exploring machine learning
 
 #### You can catch me working on
-» A super secret API project\
-» My updated personal website (hopefully) coming soon\
-» The early-bird vscode theme
+» The Coursera Deep Learning Specialization  
+» My updated personal website v3 
 #### Fun Things
 » I love working in a light theme 😄\
 » I went to Nationals in 2015 for Wushu (Chinese Martial Art) and once I'm done with university I hope to go back 🤞
