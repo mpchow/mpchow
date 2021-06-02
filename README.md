@@ -1,5 +1,6 @@
 ### Hello, I'm Matthew 👋
 I'm...\
+A Software Engineer Intern @ **League**
 Studying **Computer Engineering @ UBC**.\
 Prev intern @ **SAP, Perk Labs** \
 Fluent in backend development and currently exploring machine learning
