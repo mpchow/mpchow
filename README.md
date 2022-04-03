@@ -1,8 +1,8 @@
 ### Hello, I'm Matthew 👋
 I'm...\
-A Software Engineer Intern @ **League** \
+An Incoming Software Engineer Intern @ **Coinbase** \
 Studying **Computer Engineering @ UBC**.\
-Prev intern @ **SAP, Perk Labs** \
+Prev intern @ **League, SAP, Perk Labs** \
 Fluent in backend development and currently exploring machine learning
 
 #### You can catch me working on
